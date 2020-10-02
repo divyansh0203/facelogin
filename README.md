@@ -1,6 +1,6 @@
 facelogin
 =========
-
+Amazing project for website developers
 Web application (PHP) login with face recognition
 
 Face detection is based on https://github.com/neave/face-detection 
